@@ -1,0 +1,3 @@
+src/__pycache__/*
+
+#command for removing the cache files
